@@ -9,7 +9,7 @@ public class LiteralTest {
 		System.out.println("10진수 100 = " + a);
 		System.out.println("2진수 0b1100100= " +b);
 		System.out.println("8진수 0144 = " +c);
-		System.out.println("16진수 0x64")
+		System.out.println("16진수 0x64");
 	}
 
 }
